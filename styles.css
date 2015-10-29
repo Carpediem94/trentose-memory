@@ -49,6 +49,7 @@ h1 > span{
 .cards > .selected  {
   border: 2px solid #dd8815;
 }
+
 .cards > .done {
   opacity: 0.5;
 }
